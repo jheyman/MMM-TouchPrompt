@@ -1,0 +1,44 @@
+  .MMM-TouchPrompt .yesButton {
+    background-color: #fff;
+    width: 80px;
+    height: 40px;
+    opacity: 0.8;
+    border: 0px solid #00000000;
+    border-radius: 20px;
+    color: #333;
+    font-size: 26px;
+    font-weight: bolder;
+    padding: 5px 5px;
+    text-decoration: none;
+    cursor: none;
+    margin: 0px 10px;
+    /*margin: 20px auto 0;*/
+    /*min-width: 60px;*/
+  }
+  .MMM-TouchPrompt .noButton {
+    background-color: #fff;
+    width: 80px;
+    height: 40px;
+    opacity: 0.8;
+    border: 0px solid #00000000;
+    border-radius: 20px;
+    color: #333;
+    font-size: 26px;
+    font-weight: bolder;
+    padding: 5px 5px;
+    text-decoration: none;
+    cursor: none;
+    margin: 0px 10px;
+    /*margin: 20px auto 0;*/
+    /*min-width: 60px;*/
+  }
+
+  .MMM-TouchPrompt .TouchPromptContainer {
+    opacity: 0;
+    min-width: 60px;
+    min-height: 60px;
+  }
+
+  .MMM-TouchPrompt .show-prompt {
+    opacity: 1;
+  }

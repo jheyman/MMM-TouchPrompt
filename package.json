@@ -1,0 +1,21 @@
+{
+    "name": "mmm-touchprompt",
+    "version": "1.0.0",
+    "description": "A MagicMirror² module that manages a basic Yes/No prompt for touch screens",
+    "main": "MMM-TouchPrompt.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/jheyman/MMM-TouchPrompt.git"
+    },
+    "author": "jheyman)",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/jheyman/MMM-TouchPrompt/issues"
+    },
+    "homepage": "https://github.com/jheyman/MMM-TouchPrompt#README",
+    "dependencies": {
+    }
+  }
